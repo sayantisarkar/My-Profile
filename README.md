@@ -1,2 +1,2 @@
 # MyProjects
-All projects and POCs
+Web Development Project #1 in HTML - My CV
